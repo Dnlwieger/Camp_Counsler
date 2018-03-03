@@ -1,0 +1,22 @@
+{
+  "name": "camp_manager",
+  "version": "1.0.0",
+  "description": "A node web application for organizing camping trips",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dnlwieger/Manistee.git"
+  },
+  "author": "Daniel Wieger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dnlwieger/Manistee/issues"
+  },
+  "homepage": "https://github.com/Dnlwieger/Manistee#readme",
+  "dependencies": {
+    "handlebars": "^4.0.11"
+  }
+}
